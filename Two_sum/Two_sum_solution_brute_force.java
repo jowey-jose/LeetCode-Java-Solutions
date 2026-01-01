@@ -1,4 +1,4 @@
-// Brute Force approach
+package Two_sum;// Brute Force approach
 
 /*
  * Time on leetcode: 46ms.
